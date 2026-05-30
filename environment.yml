@@ -1,0 +1,20 @@
+name: rpca-video
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - opencv
+  - scipy
+  - scikit-learn
+  - psutil
+  - tqdm
+  - pyyaml
+  - pip:
+      - tabulate

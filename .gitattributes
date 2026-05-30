@@ -1,0 +1,12 @@
+﻿* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.mp4 binary
+*.avi binary
+*.mov binary
+*.mkv binary
+*.pdf binary
+*.zip binary
+*.tar.gz binary
